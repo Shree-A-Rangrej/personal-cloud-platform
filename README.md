@@ -2,7 +2,7 @@
 
 A secure, multi-user web-based cloud storage system engineered with **Flask**, **SQLAlchemy**, and **SQLite**. The platform allows verified users to manage, upload, and isolate data within personal virtual directories while maintaining high security against unauthorized path manipulations and privilege escalations.
 
-**Live Deployment:** [://pythonanywhere.com](http://://pythonanywhere.com)
+**Live Deployment:** [shreearangrej.pythonanywhere.com](https://shreearangrej.pythonanywhere.com/)
 
 ---
 
